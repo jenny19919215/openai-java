@@ -44,6 +44,8 @@ dqjdda/openai-java
 2. 运行项目 nohup java -jar openai-1.0.0.war > nohup.out 2>&1 &
 3. 访问 http://IP:18080
 
+"ssh -i <path_to_key_file> <username>@<public_IP_address_or_DNS_name>"  to ec2 server
+
 https://docs.docker.com/engine/install/ubuntu/ 如何在ubuntu 系统下安装docker
 
 https://blog.csdn.net/qq3399013670/article/details/100971283  反代原理
