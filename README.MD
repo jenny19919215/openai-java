@@ -44,6 +44,10 @@ dqjdda/openai-java
 2. 运行项目 nohup java -jar openai-1.0.0.war > nohup.out 2>&1 &
 3. 访问 http://IP:18080
 
+https://docs.docker.com/engine/install/ubuntu/ 如何在ubuntu 系统下安装docker
+
+https://blog.csdn.net/qq3399013670/article/details/100971283  反代原理
+
 ### nginx 反代
 ```bash
 server
